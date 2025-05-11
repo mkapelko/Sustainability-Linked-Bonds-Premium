@@ -1,2 +1,3 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15384821.svg)](https://doi.org/10.5281/zenodo.15384821)
+
 The programming code and mathematical model accompanying a paper by A. Oude Lansink, M. Kapelko "Do Sustainability-Linked Bonds Pay Lower Interest Rates?", forthcoming in Corporate Social Responsibility and Environmental Management. Specifically, the repository includes R code for estimating a directional distance function model (used in the computation of discount) and for estimating an OLS regression. The mathematical model underlying the discount computation is also included. The code and mathematical model were created as a result of the project funded by the National Science Centre in Poland (grant no. 2023/49/B/HS4/02991).
